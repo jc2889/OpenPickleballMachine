@@ -1,0 +1,17 @@
+angle no slide.STL        - Qty: 2        - Material: ASA or PETG
+angle slide.STL        - Qty: 2        - Material: ASA or PETG
+ball disc.STL        - Qty: 1        - Material: ASA or PETG
+ball_mover.STL        - Qty: 1        - Material: ASA or PETG
+battery strap.STL        - Qty: 1        - Material: ASA or PETG
+custom motor gear.STL         - Qty:2        - Material: ASA    (printed PETG example. please use the new STL file)
+custom servo gear.STL        - Qty:1        - Material: ASA
+custom wheel gear.STL        - Qty:2        - Material: ASA
+electrical box.STL        - Qty:1        - Material: ASA or PETG
+left mounting bracket.STL        - Qty:1        - Material: ASA or PETG
+motor bracket.STL        - Qty:2        - Material: ASA
+right mounting bracket.STL        - Qty:1        - Material: ASA or PETG
+ring gear.STL        - Qty:1        - Material: ASA
+roller frame.STL        - Qty:1        - Material: ASA
+screen mount.STL        - Qty:1        - Material: ASA or PETG
+TPU launcher wheel.STL        - Qty:1        - Material: TPU    (already printed)
+tube.STL        - Qty:1        - Material: ASA or PETG
