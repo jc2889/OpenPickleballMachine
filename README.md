@@ -13,7 +13,7 @@ This project presents a cost-effective, open-source pickleball throwing machine 
 - **Easy Maintenance:** Built using off-the-shelf parts, making repairs and upgrades simple.
 
 ## Requirements
-BOM.XLSX for materials sourcing.
+`BOM.XLSX` for materials sourcing.
 [image](https://github.com/user-attachments/assets/6ef78148-6823-4c8e-af42-3e798bc7d5f1)
 # Tools required for assembly: 
 3D Printer (That can print ABS/ASA), impact driver, power drill, soldering iron, crimpers, wire strippers, hot glue gun, hex driver set, jigsaw.
