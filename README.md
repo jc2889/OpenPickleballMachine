@@ -45,7 +45,7 @@ Rollers should be printed with 95A TPU.
        psk="YOUR_PASSWORD"
    }
 
-###Clone the repository:
+### Clone the repository:
   ```bash
   git clone https://github.com/jc2889/OpenPickleballMachine.git
   cd OpenPickleballMachine
