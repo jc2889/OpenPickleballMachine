@@ -19,7 +19,7 @@ BOM.XLSX for materials sourcing.
 3D Printer (That can print ABS/ASA), impact driver, power drill, soldering iron, crimpers, wire strippers, hot glue gun, hex driver set, jigsaw.
 
 
-#3D printing specs:
+# 3D printing specs:
 We suggest using either ASA/ABS or better as a filament. Suggested standard 3 wall, 25% gyroid/cubic infil, 0.6mm nozzle.
 Rollers should be printed with 95A TPU.
 #Our specs: ASA-CF 
