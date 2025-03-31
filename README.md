@@ -22,7 +22,9 @@ BOM.XLSX for materials sourcing.
 # 3D printing specs:
 We suggest using either ASA/ABS or better as a filament. Suggested standard 3 wall, 25% gyroid/cubic infil, 0.6mm nozzle.
 Rollers should be printed with 95A TPU.
-#Our specs: ASA-CF 
+# Our specs: ASA-CF for filament
+# Our Printers: Voron 2.4 350, Prusa MK4s, Bambu lab X1C
+
 ## Installation
 
 ### 1. Hardware Setup
