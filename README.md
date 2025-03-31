@@ -5,7 +5,7 @@
 This project presents a cost-effective, open-source pickleball throwing machine designed to bridge the gap between affordability and advanced features. It provides adjustable speed, spin control, and reliable ball feeding, allowing players to practice and improve independently. The open-source design encourages community collaboration, customization, and innovation, empowering users to enhance the machine to suit their specific needs.
 
 ## Features
-![image](https://github.com/user-attachments/assets/15883aba-5325-482b-960e-9b60191c7664)!
+![image](https://github.com/user-attachments/assets/15883aba-5325-482b-960e-9b60191c7664)
 - **Adjustable Speed:** Customize the speed of ball throws for a range of practice scenarios.
 - **Spin Control:** Fine-tune the spin for more realistic training.
 - **Reliable Ball Feeding:** Ensures consistent ball delivery for continuous practice.
