@@ -16,7 +16,7 @@ This project presents a cost-effective, open-source pickleball throwing machine 
 
 ## Requirements
 `BOM.XLSX` for materials sourcing.
-[image](https://github.com/user-attachments/assets/6ef78148-6823-4c8e-af42-3e798bc7d5f1)
+![image](https://github.com/user-attachments/assets/6ef78148-6823-4c8e-af42-3e798bc7d5f1)
 # Tools required for assembly: 
 3D Printer (That can print ABS/ASA), impact driver, power drill, soldering iron, crimpers, wire strippers, hot glue gun, hex driver set, jigsaw.
 
@@ -26,6 +26,7 @@ We suggest using either ASA/ABS or better as a filament. Suggested standard 3 wa
 Rollers should be printed with 95A TPU.
 ### Our specs: ASA-CF for filament
 ### Our Printers: Voron 2.4 350, Prusa MK4s, Bambu lab X1C
+***We suggest using cast polyurethane rubber rollers instead of 3d printed TPU rollers as they work significantly better**
 
 ## Installation
 
