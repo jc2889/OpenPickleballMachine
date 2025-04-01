@@ -1,5 +1,7 @@
 # OpenPickleballMachine
 
+![image](https://github.com/user-attachments/assets/336d860c-2c0d-4b56-a450-b865188375ad)
+
 # Open-Source Pickleball Throwing Machine
 
 This project presents a cost-effective, open-source pickleball throwing machine designed to bridge the gap between affordability and advanced features. It provides adjustable speed, spin control, and reliable ball feeding, allowing players to practice and improve independently. The open-source design encourages community collaboration, customization, and innovation, empowering users to enhance the machine to suit their specific needs.
