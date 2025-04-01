@@ -33,7 +33,19 @@ Rollers should be printed with 95A TPU.
 
 ### 2. Software Setup
 - Download balena etcher: https://etcher.balena.io/
-- Using balena etcher, flash the iso file in `docs/firmware` folder to download the needed firmware.
+- Using balena etcher, flash the img file in `docs/firmware` folder to download the needed firmware.
+
+### Recommended Software:
+
+MobaXterm for SSH access
+https://mobaxterm.mobatek.net/ 
+
+CAD Software for editing printed parts or for modifications
+Fusion 3D is free and easily usable, other recommendations are FreeCAD, Sketchup or Blender.
+
+Slicer for 3d printing; Prusaslicer
+https://www.prusa3d.com/page/prusaslicer_424/
+
 # Connect the Pi to Wifi:
 1. Open the SD card on your computer (it should be mounted as the boot partition).
 2. In the root directory, create a file named `wpa_supplicant.conf` and add the following content:
@@ -46,8 +58,14 @@ Rollers should be printed with 95A TPU.
        ssid="YOUR_SSID"
        psk="YOUR_PASSWORD"
    }
+   
+## For further documentation and instructions:
+
+Visit `docs/assembly`
 
 ### Clone the repository:
   ```bash
   git clone https://github.com/jc2889/OpenPickleballMachine.git
   cd OpenPickleballMachine
+
+
