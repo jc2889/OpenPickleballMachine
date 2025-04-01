@@ -31,15 +31,15 @@ Rollers should be printed with 95A TPU.
 
 ### 1. Hardware Setup
 - Assemble the machine using off-the-shelf components, including motors, motor controllers, and the Raspberry Pi.
-- Follow the wiring instructions provided in the `docs/assembly` folder to connect the components.
+- Follow the wiring instructions provided in the `docs/instructions` folder to connect the components.
 
 ### 2. Software Setup
 - Download balena etcher: https://etcher.balena.io/
-- Using balena etcher, flash the img file in `docs/firmware` folder to download the needed firmware.
+- Using balena etcher, flash the .img file in `docs/firmware` folder to download the needed firmware or follow the instructions on how to create your own.
 
 ### Recommended Software:
 
-MobaXterm for SSH access
+MobaXterm for SSH access on Pi
 https://mobaxterm.mobatek.net/ 
 
 CAD Software for editing printed parts or for modifications
@@ -49,7 +49,7 @@ Slicer for 3d printing; Prusaslicer
 https://www.prusa3d.com/page/prusaslicer_424/
 
 # Connect the Pi to Wifi:
-1. Open the SD card on your computer (it should be mounted as the boot partition).
+1. Open the SD card on your computer (it should be mounted as the boot partition), or connect the Pi via ethernet and SSH into it.
 2. In the root directory, create a file named `wpa_supplicant.conf` and add the following content:
 
    ```txt
