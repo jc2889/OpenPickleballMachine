@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pickleball App
+Comment=Launch the Pickleball Control Panel
+Exec=/usr/bin/python3 /home/biqu/UI.py
+Icon=/home/biqu/pickleball.jpeg
+Terminal=false
+Categories=Utility;
